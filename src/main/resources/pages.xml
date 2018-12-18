@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pages>
+    <page>
+        <route>client.add</route>
+        <title>title.client.add</title>
+        <path>jsp/client/add.jsp</path>
+    </page>
+    <page>
+        <route>client.update</route>
+        <title>title.client.update</title>
+        <path>jsp/client/update.jsp</path>
+    </page>
+    <page>
+        <route>client.show.all</route>
+        <title>title.client.show.all</title>
+        <path>jsp/client/show-all.jsp</path>
+    </page>
+</pages>
